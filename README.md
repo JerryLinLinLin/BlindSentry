@@ -6,4 +6,4 @@ A user-mode proof of concept that crashes Avira Endpoint Protection SDK's protec
 
 ## Timeline
 
-- Unknown: Vendor notification pending.
+- 2026-10-24: Reported to Avira.
